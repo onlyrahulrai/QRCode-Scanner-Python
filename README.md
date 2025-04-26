@@ -19,8 +19,10 @@ Install OpenCV using pip:
 📄 How to Run
 - Clone or download this repository.
 - Install dependencies:
+  
 `pip install -r requirements.txt`
 - Run the app:
+  
 `python app.py`
 - Press q to quit the scanner.
 
